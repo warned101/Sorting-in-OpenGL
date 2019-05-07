@@ -16,4 +16,4 @@ Running the program
 ```./a.out```
 ## Example
 
-![](name-of-giphy.gif)
+![https://github.com/warned101/Sorting-in-OpenGL/blob/master/sorting.gif](sorting.gif)
